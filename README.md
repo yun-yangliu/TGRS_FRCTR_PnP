@@ -1,7 +1,7 @@
 ## Description
 - Matlab code for the paper: \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", TGRS 2021.
 
-- Copyright: Yun-Yang Liu, Xi-Le Zhao\*, Yu-Bang Zheng\*, Tian-Hui Ma, Hongyan Zhang
+- Copyright: Yun-Yang Liu, Xi-Le Zhao\*, Yu-Bang Zheng, Tian-Hui Ma, Hongyan Zhang
 
 - Homepage: https://yun-yangliu.github.io
 
